@@ -9,3 +9,7 @@ JavaScript Skills Covered:
 #Conditional Logic: Use conditionals to manage quiz flow, such as determining when the quiz ends and displaying results.
 #Enhancing User Experience: Integrate optional features like timers for each question and animations for transitions between questions.
 #JavaScript Best Practices: Write clean, efficient, and well-organized JavaScript code, adhering to best practices to ensure code well-structured,scalable, readability and maintainability.
+
+
+future enhancement:
+#include a timer 
