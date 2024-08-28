@@ -13,3 +13,5 @@ JavaScript Skills Covered:
 
 future enhancement:
 #include a timer 
+#give hints to answers
+
