@@ -8,4 +8,4 @@ JavaScript Skills Covered:
 #Event Handling: Implement browser event listeners to manage user actions like choosing an answer and moving to the next question.
 #Conditional Logic: Use conditionals to manage quiz flow, such as determining when the quiz ends and displaying results.
 #Enhancing User Experience: Integrate optional features like timers for each question and animations for transitions between questions.
-#JavaScript Best Practices: Write clean, efficient, and well-organized JavaScript code, adhering to best practices to ensure code readability and maintainability.
+#JavaScript Best Practices: Write clean, efficient, and well-organized JavaScript code, adhering to best practices to ensure code well-structured,scalable, readability and maintainability.
